@@ -13,4 +13,4 @@ To report a new bug, navigate to the **[Issues](../../issues)** tab and use the 
   2. Click on...
   3. See the error.
 * **Crash Log:** Provide a Pastebin link to your `crash-report` or `latest.log` if the game closed.
-* **Screenshots / Media:** (Drag and drop your images or GIFs directly into this box to show us the issue!)
+* **Screenshots / Media:** (Drag and drop your images or GIFs directly into issues tab to show us the issue!)
